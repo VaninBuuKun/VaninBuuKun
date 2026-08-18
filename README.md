@@ -1,20 +1,31 @@
-<h1 align="center">Hi there, I'm Nguyễn Hữu Tường Vân 👋</h1>
-<h3 align="center">Software Engineering Student @ HCMUS | Aspiring Backend Developer & Software Architect</h3>
+<h1 align="center">Hi, I'm Nguyễn Hữu Tường Vân 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <b>Software Engineering Student @ HCMUS</b><br/>
+  Backend Developer • .NET • Microservices • System Design
 </p>
 
-
-### 💻 Tech Stack & Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,redis,rabbitmq,docker,react,ts,tailwind,vite,git,github" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Backend+Systems;Microservices+%7C+.NET+9+%7C+System+Design" />
 </p>
 
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,redis,rabbitmq,docker,kubernetes,react,ts,git,github" />
+</p>
+
+### 🚀 Focus
+
+`ASP.NET Core` · `Microservices` · `Distributed Systems` · `System Design` · `DevOps`
+
+### 📌 Featured Project
+
+**E-commerce Marketplace — Microservices Architecture**
+
+`C#` `ASP.NET Core` `.NET 9` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `YARP`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaninBuuKun&show_icons=true&hide_border=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaninBuuKun&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
+</p>
