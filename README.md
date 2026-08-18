@@ -9,14 +9,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
-
-### 🚀 About Me
-- 🔭 **Current Focus:** Building **Ecommerce Microservices** with .NET 8, Clean Architecture, CQRS, and React 19.
-- 🎯 **Goals:** Master System Design, Cloud Architecture, and Distributed Systems to become a Solution Architect.
-- 🛠️ **Tech Stack:** .NET 8, EF Core, PostgreSQL, Redis, RabbitMQ, Hangfire, React 19, TypeScript, Tailwind CSS.
-
----
 
 ### 💻 Tech Stack & Tools
 
@@ -26,15 +18,3 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaninBuuKun&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaninBuuKun&layout=compact&theme=tokyonight&hide=html" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VaninBuuKun.VaninBuuKun&left_text=Profile%20Views" />
-</p>
