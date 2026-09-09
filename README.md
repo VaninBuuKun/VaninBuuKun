@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,sqlserver,redis,rabbitmq,docker,kubernetes,react,ts,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mssql,redis,rabbitmq,docker,kubernetes,react,ts,git,github" />
 </p>
 
 ### 🚀 Focus
