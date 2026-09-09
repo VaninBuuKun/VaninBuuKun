@@ -12,12 +12,12 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,redis,rabbitmq,docker,kubernetes,react,ts,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,sqlserver,redis,rabbitmq,docker,kubernetes,react,ts,git,github" />
 </p>
 
 ### 🚀 Focus
 
-`ASP.NET Core` · `Microservices` · `Distributed Systems` · `System Design` · `DevOps`
+`ASP.NET Core` · `Microservices`
 
 ### 📌 Featured Project
 
